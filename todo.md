@@ -1,6 +1,6 @@
 TODO
 
-1. middleware [v]
+1. middleware
 
 - [x] logger
 - [x] database
@@ -15,21 +15,21 @@ TODO
 - [ ] schema
 - [ ] migrations
 
-2. poetries [x]
+2. poetries
 
-- [] list 3 + N
-- [] detail
-- [] search
-- [] push
-- [] rank
+- [ ] list 3 + N
+- [ ] detail
+- [ ] search
+- [ ] push
+- [ ] rank
 
-3. user [x]
+3. user
 
-- [] login
-- [] comment
-- [] love
-- [] favor
-- [] history
-- [] follow
+- [ ] login
+- [ ] comment
+- [ ] love
+- [ ] favor
+- [ ] history
+- [ ] follow
 
-4. planning.. [-]
+4. planning..

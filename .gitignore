@@ -1,4 +1,4 @@
 dist
 design.md
 node_modules
-config/default.ts
+src/config/default.ts
