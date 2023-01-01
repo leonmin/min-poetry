@@ -29,7 +29,7 @@
     "@types/qs": "^6.9.1",
     "@types/request-promise": "^4.1.46",
     "@types/stoppable": "^1.1.0",
-    "config": "^3.3.0",
+    "config": "^3.3.8",
     "humps": "^2.0.1",
     "knex": "^0.20.12",
     "koa": "^2.11.0",
